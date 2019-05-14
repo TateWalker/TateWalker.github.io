@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Infinity42 Software
 
 Data Science Solutions
