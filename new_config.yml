@@ -1,14 +1,14 @@
 # Site
 title: Infinity42
-description: Software Solutions
-url: http://localhost:4000
+description: Data Science Software Solutions
+url: https://tatewalker.github.io/
 logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/home1.jpg                          # this image will be shown on homepage's left block
-  post-list: images/home.jpg             # this image will be shown on post list page
+  homepage: images/home.png                           # this image will be shown on homepage's left block
+  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
@@ -30,11 +30,10 @@ sass:
 
 # Social Links
 #email:             email
-#google.plus:        username
-# twitter:            username
+#twitter:            username
 #facebook:           username
-github:             TateWalker
-stackoverflow:     3067527/tatewalker  # from a "http://stackoverflow.com/users/123456/username" link
+github:             Tate-Walker
+stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          Tate-Walker
 #xing:              username
 instagram:          i42.photos
@@ -53,6 +52,7 @@ instagram:          i42.photos
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
+#spotify:
 
 # Gems
 gems:
