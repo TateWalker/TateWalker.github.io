@@ -1,7 +1,6 @@
 # Infinity42 Software
 
-## Data Science Solutions
-
+Data Science Solutions
 
 We're the software division of Infinity42, a multifaceted productions company.
 
