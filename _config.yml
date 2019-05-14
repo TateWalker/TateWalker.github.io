@@ -1,14 +1,14 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
-logo: halve.png                                       # Site logo
+title: Infinity42 Software
+description: Data Science Software Solutions
+url: https://tatewalker.github.io
+logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
+  homepage: images/home.jpg                           # this image will be shown on homepage's left block
+  post-list: images/home1.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
