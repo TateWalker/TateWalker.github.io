@@ -139,8 +139,23 @@ canvas {
   }
 }
 
+.home-menu-icon {
+  position: absolute;
+  top: 32px;
+  right: 150px;
+  width: 30px;
+  height: 30px;
+  background: $white;
+  border-radius: 100%;
+  border: 2px solid $gray;
+  &:hover {
+    border-color: $green;
+  }
+}
+
 .posts-link,
-.projects-link {
+.projects-link,
+.home-link {
   position: absolute;
   top: 73px;
   font-size: 12px;
@@ -153,6 +168,10 @@ canvas {
 
 .projects-link {
   right: 20px;
+}
+
+.home-link {
+  right: 150px;
 }
 
 .overlay {
@@ -320,6 +339,14 @@ canvas {
       transform: translatex(-50%);
     }
   }
+  h4 {
+  a {
+    color: #399f62;
+    border-bottom: 1px dotted $green;
+    line-height: 25px;
+
+  }
+  }
   p {
     font-size: 21px;
     line-height: 30px;
@@ -383,6 +410,7 @@ canvas {
         font-size: 1.3em;
         padding: 0.3em 0.35em;
         color: $white;
+
       }
     }
   }
@@ -471,6 +499,54 @@ canvas {
     }
 }
 
+#posts-list {
+  .block-right {
+      display: block;
+      .content {
+        height: auto;
+        display: block;
+        max-width: 800px;
+      }
+    }
+  .logo {
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    img {
+      width: 50px;
+      height: auto;
+    }
+    &:after {
+      display: none;
+    }
+  }
+  .section-line {
+    color: rgba($white, 0.6);
+    a {
+      color: rgba($white, 0.6);
+      &:hover {
+        color: $gray;
+      }
+    }
+  }
+  .home-menu-icon {
+    position: absolute;
+    top: 32px;
+    right: 90px;
+    width: 30px;
+    height: 30px;
+    background: $white;
+    border-radius: 100%;
+    border: 2px solid $gray;
+    &:hover {
+      border-color: $green;
+    }
+  }
+  .home-link {
+  right: 90px;
+  }
+
+}
 
 #posts {
   .block-right {

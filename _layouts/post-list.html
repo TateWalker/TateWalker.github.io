@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-  <body id="posts">
+  <body id="posts-list">
 
     <div class="block-left">
       <div class="content">
@@ -16,8 +16,12 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a href="posts.html" title="posts" class="posts-menu-icon"></a>
-      <a title="projects" class="projects-menu-icon">
+      <a href="{{ site.url }}" title="Back Home" class="home-menu-icon"></a>
+      <span class="home-link">HOME</span>
+      <a title="View Projects" class="projects-menu-icon">
+      <span></span>
+      </a>
+      <span class="projects-link">PROJECTS</span>
         <span></span>
       </a>
       <div class="content">
