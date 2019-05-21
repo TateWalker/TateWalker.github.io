@@ -1,18 +1,18 @@
 ---
 layout: about
 title: About
-description: "About us"
+description: "About"
 image: images/aboutBackground.jpg
 permalink: /about.html
 ---
 
 # What is Infinity42?
 
-Infinity42 is a multifaceted company, consisting of a [photography](https://infinity42.com) subset and a software subset. You're currently on our software page. If you're looking for software help, congrats!, you're at the right place.
+Infinity42 is a multifaceted company, consisting of a [photography](https://infinity42.com) subset and a software subset. You're currently on the software page. If you're looking for software help, congrats!, you're at the right place.
 
 ## What do we offer?
 
-Our company offers data science solutions. That's a pretty general explanation, but specifically, we employ the following skills to tackle problems:
+Infinity42 offers data science solutions. That's a pretty general explanation, but specifically, we employ the following skills to tackle problems:
 
 * Python (3.7.0+)
     * Scikit Learn
@@ -24,7 +24,7 @@ Our company offers data science solutions. That's a pretty general explanation, 
     * Symbolic toolbox
     * Aerospace toolbox
 
-## Why choose us?
+## Why choose Infinity42?
 
 * We are a small company, with a limited clientel.
 

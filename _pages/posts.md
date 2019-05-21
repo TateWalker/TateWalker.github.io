@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
-permalink: /posts.html
+title: Security Guide
+description: "Security Guide"
+permalink: /guide.html
 ---
