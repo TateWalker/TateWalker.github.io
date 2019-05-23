@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Internet Tracking"
-description: "About"
-
-categories:
-  - Edge Case
+description: "How You're Being Tracked on the Internet"
 tags:
   - Internet
-  - Moderate
+  - Hard
 ---
 
 ### What's a cookie?

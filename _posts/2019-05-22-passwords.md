@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "Passwords"
-description: "About"
-
-categories:
-  - Edge Case
+description: "Passwords, Managers, 2FA"
 tags:
-  - Mild
+  - Easy
 ---
 
 # Generate a Great Password
