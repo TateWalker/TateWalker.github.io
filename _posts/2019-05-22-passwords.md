@@ -13,14 +13,13 @@ tags:
 
 Most people have the same password, or variations of the same password, for every website/app. This is more convenient, as you don't have to remember something new for every website you use. Consider this, however:
 
-* An online ticket sellingw website is hacked and your email and password are stolen
-* Joe Hacker can now gain access to your:
-    * Bank account
-    * Social media
-    * Amazon account
-    * Your email account (this would allow them to lock you out of everything)
+An online ticket selling website is hacked and your email and password are stolen. Joe Hacker can now gain access to your:
+* Bank account
+* Social media
+* Amazon account
+* Your email account (this would allow them to lock you out of everything)
 
-Sure, having your password as 'helloAmazon1' for Amazon and 'helloInstagram1' for Instagram seems more secure, but if someone figures out your "formula", you're done for.
+Sure, having your password as `helloAmazon1` for Amazon and `helloInstagram1` for Instagram seems more secure, but if someone figures out your "formula", you're done for.
 
 ## What Can You Do?
 
@@ -45,7 +44,7 @@ We'll go with the number of consonants in the website name. We're currently on A
 
 > twTwbTgtB
 
-There are 3 consonants in 'Amazon', so we capitalized every third letter.
+There are 3 consonants in "Amazon", so we capitalized every third letter.
 
 ### Add Some Numbers
 
@@ -53,7 +52,7 @@ We'll add the number of syllables to the beginning of the password.
 
 > 3twTwbTgtB
 
-There are 3 syllables in 'Amazon', A-ma-zon, so we added a 3 to the beginning.
+There are 3 syllables in "Amazon", A-ma-zon, so we added a 3 to the beginning.
 
 ### Add a Special Character
 
@@ -61,7 +60,7 @@ We'll add a $ to the position that corresponds to the number of vowels.
 
 > 3t$wTwbTgtB
 
-There are 3 vowels in 'Amazon', so we added a $ to the third location of the word.
+There are 3 vowels in "Amazon", so we added a $ to the third location of the word.
 
 ---
 
@@ -73,7 +72,7 @@ We now have a unique, and seemingly meaningless password for Amazon. We can rins
 
 ## Still Too Complicated?
 
-You should use a password manager. Password managers will store (and hopefully encrypt) all your passwords, and autofill these for you provided you enter your "master password".
+You should use a password manager. Password managers will store (and hopefully encrypt) all your passwords and autofill them for you, provided you enter your "master password".
 
 We recommend [LastPass](https://www.lastpass.com/business-password-manager) because they have plugins for all the top browsers, as well as mobile apps for iPhone and Android. They are free (for personal use, not business use), secure, and easy to use.
 
@@ -93,8 +92,9 @@ There are different 2FA apps you can use, but some websites only work with some 
 
 > When you link a 2FA account, make sure to keep a copy of the code or QR-Code that they provide you, because this will enable you to relink on a different device. If you don't keep track of this, you will **not** be able to access your account.
 
-Once again, **keep a record of the codes you used to setup each of your 2FAs**
+Once again, **keep a record of the codes you used to setup each of your 2FAs.**
 
 ---
 
 Congrats! You now have an easy way to generate and remember unique passwords, a password manager to do the heavy lifting for you, and 2FA to protect you even further. Time to go update all your accounts.
+{: style="text-align: center;"}
