@@ -4,6 +4,7 @@ title: "Internet Tracking"
 description: "How You're Being Tracked on the Internet"
 tags:
   - Internet
+  - Trackers
   - Hard
 ---
 

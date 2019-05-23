@@ -27,12 +27,13 @@ layout: compress
 
     <div class="block-right">
       <a href="{{ site.url }}" title="Back Home" class="home-menu-icon"></a>
-      <a href="{{ site.url }}/guide" title="View Guide" class="posts-menu-icon"></a>
-    <span class="posts-link">GUIDE</span>
-    <a title="View Projects" class="projects-menu-icon">
+      <span class="home-link">HOME</span>
+      <a href="{{ site.url }}/guide" title="View guide" class="posts-menu-icon"></a>
+      <span class="posts-link">GUIDE</span>
+      <a title="View Projects" class="projects-menu-icon">
       <span></span>
-    </a>
-    <span class="projects-link">PROJECTS</span>
+      </a>
+      <span class="projects-link">PROJECTS</span>
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}

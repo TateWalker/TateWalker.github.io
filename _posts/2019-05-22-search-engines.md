@@ -3,8 +3,9 @@ layout: post
 title: "Search Engines"
 description: "How to Pick the Right Search Engine"
 tags:
-  - Search
   - Internet
+  - Search
+  - Trackers
   - Easy
 ---
 
