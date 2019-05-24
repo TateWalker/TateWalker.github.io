@@ -11,7 +11,7 @@ tags:
 
 # Pick a Great Search Engine
 
-Need to know the definition of something? Look it up. Looking for the best italian restaurant in Manhattan? Look it up. Can't figure out what the error in your code means? Look it up. You get the picture.
+Need to know the definition of something? Look it up. Looking for the best Italian restaurant in Manhattan? Look it up. Can't figure out what the error in your code means? Look it up. You get the picture.
 
 But do you know what a search engine is and what distinguishes the different options?
 
