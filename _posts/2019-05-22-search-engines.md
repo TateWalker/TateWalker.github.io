@@ -19,7 +19,7 @@ But do you know what a search engine is and what distinguishes the different opt
 
 A search engine is software that searches websites and different types of data for specific information.
 
-The default, go-to search engine in America is Google.
+> The default, go-to search engine in America is Google.
 
 ## What Are Some Different Search Engines?
 
@@ -35,9 +35,9 @@ There are different search engines for different reasons. We'll focus on interne
 
 ## Why Can't I Just Use Google?
 
-Being the default search engine in America gives Google a lot of power. Because they're the first place most people go to for information, they can (and do) pick and choose what is presented to you.
+Being the default search engine in America gives Google a lot of power. Because they're the first place most people go for information, they can (and do) pick and choose what is presented to you.
 
-Using all the trackers that they've placed on the web (refer to the [Internet Tracking]({{site.url}}/internet-tracking) page of the guide for more info), Google delivers results that they think you want to see. Sounds great right? Wrong.
+Using all the trackers that they've placed on the web (refer to the [Internet Tracking]({{site.url}}/internet-tracking) page of the guide for more info), Google delivers results that they think you want to see. Sounds great, right? Wrong.
 
 Because they're serving you results tailored to you, they're filtering out other results. Take politics for example. If Google has figured out that you generally lean right on the political spectrum, they're more likely to show you results that you'd agree with. Sounds great, but you're never exposed to opposing views that might be better. This is a ***huge*** contributor to societal polarization.
 
@@ -54,10 +54,11 @@ Google is a typically left-leaning company. All fine and great, until they try a
 Google doesn't show any suggestions for `Crooked Hillary` while it's the first suggestion on DuckDuckGo. Here's a video explaining more:
 
 <iframe src="https://player.vimeo.com/video/51181384" width="640" height="360" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+{: style="text-align: center;"}
 
 ## Who Can I Use Instead?
 
-There are many search engines out there that focus on privacy, but it's really hard to compete with the speed and precision of Google. Luckily one company is **dedicated** to security and privacy, but also delivers results on the same scale as Google.
+There are many search engines out there that focus on privacy, but it's really hard to compete with the speed and precision of Google. Luckily one company is **dedicated** to security and privacy, while also delivering results on the same scale as Google.
 
 ### DuckDuckGo
 
@@ -65,7 +66,7 @@ DuckDuckGo is a search engine that boasts three main promises:
 
 1. They don't store your personal information
 2. They don't store your search history, so they can't deliver you targeted advertisements
-3. They don't track you whether you're in "incognito mode" or not.
+3. They don't track you, whether you're in "incognito mode" or not.
 
 Other search engines can't promise these things.
 
@@ -109,4 +110,3 @@ Depending on the browser you use, it will be a different process. We'll cover:
 
 Congrats! You've taken the easiest step to getting your privacy back from Google. Search freely, knowing that you aren't being tracked. Make sure you change your search engine on all your devices!
 {: style="text-align: center;"}
-
