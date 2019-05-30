@@ -613,13 +613,13 @@ canvas {
     p {
       color: darken($white, 40);
     }
-    .date {
-      color: #399f62;
+    .note {
+      color: darken($white, 40);
       float: right;
       display: inline-block;
       font-size: 15px;
       padding-top: 10px;
-      text-transform: uppercase;
+      /*text-transform: uppercase;*/
     }
     .post-title {
       display: inline-block;

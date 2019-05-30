@@ -5,6 +5,7 @@ description: "Passwords, Managers, 2FA"
 image: images/post3.jpg
 tags:
   - Easy
+note: "\"p@55w0rd\" is a bad password"
 ---
 
 # Generate a Great Password

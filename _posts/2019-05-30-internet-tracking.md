@@ -2,10 +2,11 @@
 layout: post
 title: "Internet Tracking"
 description: "How You're Being Tracked on the Internet"
-image: images/home1.jpg
+image: images/home2.jpg
 tags:
   - Internet
   - Trackers
+note: "They're always watching..."
 ---
 
 # How You're Being Tracked on the Internet

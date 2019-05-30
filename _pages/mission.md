@@ -3,6 +3,7 @@ layout: about
 title: "Mission Statement"
 description: "Mission Statement"
 image: images/missionBackground.jpg
+permalink: /mission.html
 ---
 
 # Mission Statement

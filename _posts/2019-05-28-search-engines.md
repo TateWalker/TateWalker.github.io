@@ -8,6 +8,7 @@ tags:
   - Search
   - Trackers
   - Easy
+note: "Bing it!"
 ---
 
 # Pick a Great Search Engine
