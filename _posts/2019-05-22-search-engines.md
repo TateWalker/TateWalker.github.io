@@ -2,6 +2,7 @@
 layout: post
 title: "Search Engines"
 description: "How to Pick the Right Search Engine"
+image: images/home3.jpg
 tags:
   - Internet
   - Search

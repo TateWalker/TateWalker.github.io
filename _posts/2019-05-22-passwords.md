@@ -2,6 +2,7 @@
 layout: post
 title: "Passwords"
 description: "Passwords, Managers, 2FA"
+image: images/post3.jpg
 tags:
   - Easy
 ---
