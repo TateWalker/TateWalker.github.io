@@ -8,35 +8,38 @@ permalink: /about.html
 
 # What is Infinity42?
 
-Infinity42 is a multifaceted company, consisting of a [photography](https://infinity42.com) subset and a software subset. You're currently on the software page. If you're looking for software help, congrats!, you're at the right place.
+Infinity42 is a multifaceted company, with interests in [photography](https://photos.infinity42.com) and software. You're currently on the software page. If you're looking for software help, congrats! You're at the right place.
 
-## What do we offer?
+## Services
 
-Infinity42 offers data science solutions. That's a pretty general explanation, but specifically, we employ the following skills to tackle problems:
+Infinity42 offers data science solutions and general scripting/automation.
+
+### Tech Stack
 
 * Python (3.7.0+)
     * Scikit Learn
     * TensorFlow
+* Apache Spark
 * Git
-    * We use Github, but are experienced in Gitlab and Bitbucket as well.
-    * A link to our Github is [here]('https://github.com/TateWalker') or through the icon on our homepage.
+    * GitHub, GitLab, Bitbucket
+    * A link to our GitHub is [here]('https://github.com/TateWalker') or through the icon on our homepage.
 * Matlab
     * Symbolic toolbox
     * Aerospace toolbox
 
 ## Why choose Infinity42?
 
-* We are a small company, with a limited clientel.
+* We are a small company, with a limited clientele.
 
     * This gives us more time to focus on your projects and working with you to ensure you get the results you need.
 
-* We are cheap!
+* Affordable services
 
     * Starting rates are $30/hr
 
-* Communication is our strongsuit.
+* Reliable communication
 
-    * We believe that streamlined communication is key to a project. For this reason, we employ Slack or Discord to keep everyone up to date with the project progression.
+    * Streamlined communication is key to a project. For this reason, we employ Slack or Discord to keep everyone up to date with the project progression.
 
 ## Most importantly
 
