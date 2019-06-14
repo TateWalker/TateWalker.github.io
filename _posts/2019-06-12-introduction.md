@@ -19,11 +19,11 @@ You'll learn about VPNs, Email, Internet Browsing, Search Engines, and more! Mos
 
 Your data is your right. Big tech companies harvest your data, with permission hidden deep in Terms of Conditions, and use this data for their own monetary gain.
 
-Ever seen an ad for something you've only talked about? Ever texted someone something seen a picture of it on Instagram the next day? Feels a little suspicious, right?
+Ever seen an ad for something you've only talked about? Ever texted something and seen an ad for it on Instagram the next day? Feels a little suspicious, right?
 
 A common response to internet security advocacy is, **"I don't have anything to hide, who cares?"** You're entitled to your privacy by the 1st, 4th, 5th, and 9th amendments to the Constitution.
 
-> What if someone tried to take away your right to free speech just because you didn't have anything important to say? Outrageous.
+> Compare this to your freedom of speech: you have a right to free speech, even if you don't have anything important to say. To deny you of that right would be outrageous.
 
 ---
 **Take back your privacy. Live free.**
