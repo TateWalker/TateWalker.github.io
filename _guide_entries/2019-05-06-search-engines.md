@@ -39,7 +39,7 @@ There are different search engines for different reasons. We'll focus on interne
 
 Being the default search engine in America gives Google a lot of power. Because they're the first place most people go for information, they can (and do) pick and choose what is presented to you.
 
-Using all the trackers that they've placed on the web (refer to the [Internet Tracking]({{site.url}}/internet-tracking) page of the guide for more info), Google delivers results that they think you want to see. Sounds great, right? Wrong.
+Using all the trackers that they've placed on the web (refer to the [Internet Tracking]({{site.url}}/guide/internet-tracking) page of the guide for more info), Google delivers results that they think you want to see. Sounds great, right? Wrong.
 
 Because they're serving you results tailored to you, they're filtering out other results. Take politics for example. If Google has figured out that you generally lean right on the political spectrum, they're more likely to show you results that you'd agree with. Sounds great, but you're never exposed to opposing views that might be better. This is a ***huge*** contributor to societal polarization.
 

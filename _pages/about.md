@@ -3,7 +3,7 @@ layout: about
 title: About
 description: "About"
 image: images/aboutBackground.jpg
-permalink: /about.html
+permalink: /about/
 ---
 
 # What is Infinity42?
@@ -12,20 +12,7 @@ Infinity42 is a multifaceted company, with interests in [photography](https://ph
 
 ## Services
 
-Infinity42 offers data science solutions and general scripting/automation.
-
-### Tech Stack
-
-* Python (3.7.0+)
-    * Scikit Learn
-    * TensorFlow
-* Apache Spark
-* Git
-    * GitHub, GitLab, Bitbucket
-    * A link to our GitHub is [here]('https://github.com/TateWalker') or through the icon on our homepage.
-* Matlab
-    * Symbolic toolbox
-    * Aerospace toolbox
+Infinity42 offers data science solutions and general scripting/automation. View our tech stack [here]({{site.url}}/tech-stack/).
 
 ## Why choose Infinity42?
 
@@ -49,7 +36,7 @@ Infinity42 offers data science solutions and general scripting/automation.
 
 **We do not collect excessive data beyond the needs of the project. We are not interested in personally gaining from your information and data.**
 {: style="text-align: center;"}
-**Find out more about this in our [Mission Statement]({{site.url}}/mission.html)**
+**Find out more about this in our [Mission Statement]({{site.url}}/mission/)**
 {: style="text-align: center;"}
 
 ---

@@ -3,7 +3,7 @@ layout: about
 title: "Mission Statement"
 description: "Mission Statement"
 image: images/missionBackground.jpg
-permalink: /mission.html
+permalink: /mission/
 ---
 
 # Mission Statement
@@ -18,6 +18,6 @@ permalink: /mission.html
 
 ---
 
-If you'd like to learn more about security and what you can do to protect yourself daily, visit our security guide [here]({{site.url}}/guide.html).
+If you'd like to learn more about security and what you can do to protect yourself daily, visit our security guide [here]({{site.url}}/guide/).
 
 ---

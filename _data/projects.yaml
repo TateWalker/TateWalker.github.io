@@ -1,4 +1,16 @@
 - title: Crypto Payment Bot
   url: https://github.com/TateWalker/CryptoPaymentBot
-  image: ../images/crypto.jpg
+  image: ../images/projects/crypto.jpg
+  completed: true
+- title: Av Extinction Query
+  url: https://github.com/pbrown801/AV
+  image: ../images/projects/galaxy.jpg
+  completed: true
+- title: Hackathon Password Manager
+  url: https://github.com/TateWalker/tamuHack
+  image: ../images/projects/password.jpg
+  completed: true
+- title: Supernovae Templates
+  url: https://github.com/pbrown801/aggienova-templates
+  image: ../images/projects/supernovae.png
   completed: true

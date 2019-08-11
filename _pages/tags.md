@@ -1,25 +1,58 @@
 ---
-layout: page
+layout: post
 title: Tag Archive
+image: images/guideBackground.jpg
 description: "An archive of posts sorted by tag."
-permalink: /tags.html
+permalink: /tags/
 ---
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.guide_entries %}
+  {% assign ttags = post.tags | join:'|' | append:'|' %}
+  {% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags_list = site_tags | split:',' | sort %}
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+  {% if tag != "" %}
+    {% if tags == "" %}
+      {% assign tags = tag | split:'|' %}
+    {% endif %}
+    {% unless tags contains tag %}
+      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
 
-<ul class="entry-meta">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  <li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
-</ul>
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}
-{% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-   <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-   <ul>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+  <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+  <ul>
+   {% for post in site.guide_entries %}
+     {% if post.tags contains tag %}
+     <li>
+     <h3>
+     <a href="{{ post.url }}">
+     {{ post.title }}
+     </a>
+     </h3>
+     </li>
+     {% endif %}
+   {% endfor %}
   </ul>
-{% endunless %}{% endfor %}
+{% endfor %}

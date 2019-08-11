@@ -21,6 +21,9 @@ GEM
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-sitemap (0.10.0)
+    jekyll-target-blank (1.1.1)
+      jekyll (~> 3.0)
+      nokogiri (~> 1.8.2)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.10.0)
@@ -30,7 +33,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.5)
+    mini_portile2 (2.3.0)
     multipart-post (2.0.0)
+    nokogiri (1.8.5)
+      mini_portile2 (~> 2.3.0)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     rb-fsevent (0.10.3)
@@ -52,6 +58,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-sitemap
+  jekyll-target-blank (~> 1.1)
 
 BUNDLED WITH
    1.17.3

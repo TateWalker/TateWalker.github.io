@@ -46,5 +46,5 @@ All together, this data gives them a pretty good profile of who is on the web, w
 
 ---
 
-To prevent, or at least minimize, the effects of tracking, visit the [Browser]({{site.url}}/browsers) section of the guide.
+To prevent, or at least minimize, the effects of tracking, visit the [Browser]({{site.url}}/guide/browsers) section of the guide.
 {: style="text-align: center;"}

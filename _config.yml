@@ -8,8 +8,8 @@ locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/home1.jpg                          # this image will be shown on homepage's left block
-  post-list: images/home3.jpg             # this image will be shown on post list page
+  homepage: images/home3.jpg                          # this image will be shown on homepage's left block
+  post-list: images/guideBackground.jpg             # this image will be shown on post list page
   default-post: images/default_post.jpg   # this image will be shown when post's front matter doesn't specify any image
   error: images/errorBackground.jpg
 
@@ -61,6 +61,13 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-target-blank
+
+collections:
+  guide_entries:
+    permalink: /guide/:title/
+    output: true
+
 
 # Exclude list
 include: [_pages]
